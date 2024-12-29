@@ -1,0 +1,10 @@
+Question1 : Find the total spending on players for each team.
+Question2: Find the top 3 highest-paid "All-Rounders" accross all teams.
+Question3: Find the highest- priced player in each team
+Question4:Rank Players by their Price within each team and list the top 2 for every team.
+Question5:Find the most expensive player from each team along with the second most expensive palyer's name and price
+Question6: Calulate the percentage contribution of each player's price to their teams total spending
+Question7:Classify Players as "High" , "MEdium" or "Low" priced based on the following rules
+Question8:Find the Average price of Indian Players and compare it with overseas Players
+Question9:Identfy Palyers who earn more than the average price in their team
+Question10:For each Role, find the most expensive player and their price using a corelated subquery 
